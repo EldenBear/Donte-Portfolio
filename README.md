@@ -1,6 +1,7 @@
 # Donte-Portfolio
 
 ## Description
+Link to deployed app: https://eldenbear.github.io/Donte-Portfolio/
 
 This website is a personal portfolio that I've created in order to showcase my future projects and be able to put it on my Linkedin at a later time.
 
