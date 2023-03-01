@@ -8,7 +8,7 @@ This website is a personal portfolio that I've created in order to showcase my f
 
 Screenshot example of Portfolio:
 
-    ![Portfolio Screenshot](assets/images/Portfolio-screenshot.png)
+![Portfolio Screenshot](assets/images/Portfolio-screenshot.png)
 
 ## Credits
 
